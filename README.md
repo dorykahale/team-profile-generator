@@ -1,4 +1,3 @@
-# team-profile-generator
 Team Profile Generator
 ## Table of Contents
   * [Description](#Description)

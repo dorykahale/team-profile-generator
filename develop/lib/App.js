@@ -136,7 +136,7 @@ class App {
     }
 
     //Reads a template html file and adds javascript string literal by calling get script
-    //Writes an rendered team profile in html
+    //Writes rendered team profile in html
     renderHTML() {
         fs.readFile('template/main.html', 'utf8', (err, htmlString) => {
 

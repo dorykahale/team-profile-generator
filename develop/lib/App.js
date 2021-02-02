@@ -138,11 +138,11 @@ class App {
     //Reads a template html file and adds javascript string literal by calling get script
     //Writes rendered team profile in html
     renderHTML() {
-        fs.readFile('template/main.html', 'utf8', (err, htmlString) => {
+        fs.readFile('develop/templates/main.html', 'utf8', (err, htmlString) => {
 
             htmlString = htmlString.split("<script></script>").join(this.getScript());
 
-            fs.writeFile('output/index.html', htmlString, (err) => {
+            fs.writeFile('develop/output/index.html', htmlString, (err) => {
                 // throws an error, you could also catch it here
                 if (err) throw err;
                 // success case, the file was saved

@@ -1,20 +1,20 @@
 Team Profile Generator
 ## Table of Contents
   * [Description](#Description)
-  * [Application Screenshot & Video](#Application_Screenshot_&_Video)
-  * [Application Install Instructions](#Application_Install_Instructions)
+  * [Walk-Through](#Walk-Through)
+  * [Instructions](#Instructions)
   * [Questions](#Questions)
 
 ## Description
 A command-line application that accepts user input
 when prompted for information about your team, then generates an html file with employee information.
 
-## Application Screenshot & Video
+## Walk-Through
 ![Terminal Screenshot](assets/terminalScreenshot.png)
 
 [Download Command Line Walkthrough Video](assets/profilegeneratormovie.mov)
 
-## Application Install Instructions
+## Instructions
 1. Clone this github.
 2. Add NPM Inquirer to your bash/terminal.
 

@@ -1,9 +1,8 @@
-# team-profile-generator
 Team Profile Generator
 ## Table of Contents
   * [Description](#Description)
-  * [Application Screenshot & Video](#Application Screenshot & Video)
-  * [Application Install Instructions](#Application Install Instructions)
+  * [Application_Screenshot_&_Video](#Application Screenshot & Video)
+  * [Application_Install_Instructions](#Application Install Instructions)
   * [Questions](#Questions)
 
 ## Description

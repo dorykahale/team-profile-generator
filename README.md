@@ -10,7 +10,7 @@ A command-line application that accepts user input
 when prompted for information about your team, then generates an html file with employee information.
 
 ## Walk-Through
-![Terminal Screenshot](assets/terminalScreenshot.png)
+![HTML Output Screenshot](assets/Screenshot.png)
 
 [Download Command Line Walkthrough Video](assets/profilegeneratormovie.mov)
 

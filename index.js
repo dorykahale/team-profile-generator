@@ -1,4 +1,4 @@
-const App = require("./lib/App");
+const App = require("./develop/lib/App");
 const inquirer = require("inquirer");
 
 const app = new App();
